@@ -1,0 +1,12 @@
+{
+  "short_name": "keinLabel",
+  "name": "keinLabel",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "/",
+  "background_color": "#9f9f9f",
+  "theme_color": "#9f9f9f"
+}

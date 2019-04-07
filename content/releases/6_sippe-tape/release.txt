@@ -1,0 +1,56 @@
+Title: Sippe Tape - Etogate
+
+----
+
+Artists: 
+
+- etogate
+
+----
+
+Type: Album
+
+----
+
+Year: 2017
+
+----
+
+Text: Vorher nochmal pissen gehn. Etogate, Sippe Tape...
+
+----
+
+Hosts: 
+
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/playlist?list=PLLjNwf3RYaEa9izx87_z56RpdIj8Jhzxh
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-sippe-tape.jpg
+
+----
+
+Download: 
+
+- releases/2017-sippe-tape.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

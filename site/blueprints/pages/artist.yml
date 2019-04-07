@@ -1,0 +1,78 @@
+title: Künstler
+
+icon: 🎤
+
+status:
+  draft: true
+  listed: true
+
+tabs:
+
+  # Content tab
+  content:
+    label: Inhalt
+    icon: text
+
+    columns:
+      - width: 1/2
+        sections:
+          content1:
+            type: fields
+            fields:
+              teaser:
+                extends: fields/select-image
+                label: Headergrafik
+                width: 1/2
+                help: >
+                  Dieses Bild wird auf der Künstlerseite als Banner angezeigt.
+              thumb:
+                extends: fields/select-image
+                label: Thumbnail
+                width: 1/2
+                help: >
+                  Dieses Bild wird auf der Startseite als Vorschaubild angezeigt.
+              text:
+                label: Text
+                type:  textarea
+                size: medium
+      - width: 1/2
+        sections:
+          releases:
+            extends: sections/releases
+            type: pagesdisplay
+            query: page.getRecords
+          content2:
+            type: fields
+            fields:
+              socials:
+                extends: fields/provider
+                label: Social Media
+              video:
+                label: YouTube - Playlist ID
+                type: text
+                info:
+                help: Diese Playlist erscheint auf der Künstlerseite unter den Alben.
+
+  # Files tab
+  files:
+    label: Bilder
+    icon: image
+
+    sections:
+      images:
+        headline: Bilder
+        type: files
+        layout: cards
+        size: small
+        info: "{{ file.dimensions }} - {{ file.niceSize }}"
+        template: image
+
+      info:
+        headline: Abmessungen
+        type: info
+        text: |
+          Headergrafiken werden automatisch auf 1280x768 geschnitten,
+          Vorschaubilder für die Startseite auf 648x432.
+
+  # Meta tab
+  seo: tabs/seo

@@ -1,0 +1,22 @@
+title: Standard
+
+icon: 📖
+
+tabs:
+
+  # Content tab
+  content:
+    label: Inhalt
+    preset: page
+    pages: false
+    files: false
+    icon: text
+
+    fields:
+      text:
+        label: Text
+        type: textarea
+        size: huge
+
+  # Meta tab
+  seo: tabs/seo

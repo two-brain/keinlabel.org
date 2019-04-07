@@ -1,0 +1,12 @@
+{
+  "require": {
+    "getkirby/cms": "3.0.3",
+    "sylvainjule/matomo": "^1.0",
+    "rasteiner/k3-pagesdisplay-section": "^0.0.5",
+    "bnomei/kirby3-htmlhead": "^1.7",
+    "bnomei/kirby3-fingerprint": "^2.3"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}

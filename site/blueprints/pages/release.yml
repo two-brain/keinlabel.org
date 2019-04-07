@@ -1,0 +1,86 @@
+title: Release
+
+icon: 💿
+
+status:
+  draft: true
+  listed: true
+
+tabs:
+
+  # Content tab
+  content:
+    label: Inhalt
+    icon: text
+
+    columns:
+      - width: 2/3
+        sections:
+          about:
+            type: fields
+            fields:
+              artists:
+                label: Beteiligte Künstler
+                type: pages
+                query: site.index.filterBy("intendedTemplate", "artist")
+                help: >
+                  Mehrfachnennung möglich.
+                width: 1/2
+              producer:
+                label: Produzent
+                type: pages
+                query: site.index.filterBy("intendedTemplate", "artist")
+                multiple: false
+                help: >
+                  Nur Einzelnennung möglich.
+                width: 1/2
+              type:
+                label: Release
+                type: select
+                options:
+                  Album: Album
+                  EP: EP
+                  LP: LP
+                  Mixtape: Mixtape
+                  Single: Single
+                width: 1/2
+                required: true
+              year:
+                label: Erscheinungsjahr
+                type: text
+                width: 1/2
+                required: true
+              text:
+                label: Text
+                type: textarea
+                size: small
+              hosts:
+                extends: fields/provider
+                label: Verfügbare Drittanbieter
+              shop:
+                label: Shop-URL
+                type: url
+
+      - width: 1/3
+        sections:
+          media:
+            type: fields
+            fields:
+              cover:
+                extends: fields/select-image
+                label: Cover
+                image:
+                  ratio: 1/1
+                query: page.parent.files.filterBy("template", "image")
+              download:
+                extends: fields/select-image
+                label: Datei
+                layout: list
+                sortBy: title asc
+                query: page.parent.files.filterBy("template", "archive")
+                required: false
+
+  # Files tab
+  files: tabs/files
+  # Meta tab
+  seo: tabs/seo

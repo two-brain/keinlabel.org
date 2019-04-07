@@ -1,0 +1,15 @@
+title: Releases
+
+icon: 💿
+
+preset: pages
+
+options:
+  url: false
+  status: false
+  delete: false
+
+drafts:
+  extends: sections/releases
+listed:
+  extends: sections/releases

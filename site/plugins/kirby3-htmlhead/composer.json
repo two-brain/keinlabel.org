@@ -1,0 +1,52 @@
+{
+    "name": "bnomei/kirby3-htmlhead",
+    "description": "Kirby 3 Plugin for a best-practice HTML Head Element extendable with snippets.",
+    "type": "kirby-plugin",
+    "version": "1.7.6",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Meilick",
+            "email": "b@bnomei.com"
+        }
+    ],
+    "keywords": [
+        "kirby3",
+        "kirby3-cms",
+        "kirby3-plugin",
+        "html5",
+        "head",
+        "best-practice",
+        "rss-feed",
+        "opengraph-tags",
+        "google-analytics",
+        "typekit",
+        "google-webfonts",
+        "accessibility",
+        "loadjs",
+        "google-tag-manager",
+        "webfontloader",
+        "meta-tags",
+        "opengraph"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bnomei\\": "classes/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "require": {
+        "php": ">=7.1.0",
+        "getkirby/composer-installer": "^1.1"
+    },
+    "scripts": {
+      "assets": [
+        "yarn",
+        "cp -f node_modules/loadjs/dist/loadjs.min.js assets/js/loadjs.min.js",
+        "cp -f node_modules/webfontloader/webfontloader.js assets/js/webfontloader.js"
+      ]
+    }
+}

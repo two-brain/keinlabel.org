@@ -1,0 +1,52 @@
+Title: Schweine EP
+
+----
+
+Artists: 
+
+- etogate
+- defcon
+
+----
+
+Type: EP
+
+----
+
+Year: 2015
+
+----
+
+Text: Man muss ein Schwein sein auf dieser Welt...
+
+----
+
+Hosts: 
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-schweine-ep.jpg
+
+----
+
+Download: 
+
+- releases/2015-schweine-ep.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

@@ -1,0 +1,58 @@
+Title: deinemafa
+
+----
+
+Teaser: 
+
+- deinemafa-live.jpg
+
+----
+
+Thumb: 
+
+- header-deinemafa-garten.jpg
+
+----
+
+Text: 
+
+Tut euch gütlich! "Edgar ohne Günde" (Texte) und "Freund" (Beats) machen die beste humorvolle und inhaltsgeschwängerte Musik des Erdballs. Sie könnten in Millionen baden, doch ihnen ist es wichtiger, ihr Wissen zu teilen.
+
+Hier gibt es ihre virtuellen Tonträger zum freien Download, aber auch der Konsum innerhalb der gängigen Portale (Spotify, YouTube usw.) unterstützt die Verbreitung der allumfassenden Wahrheit.
+
+----
+
+Socials: 
+
+- 
+  provider: facebook
+  link: https://www.facebook.com/deinemafa
+- 
+  provider: instagram
+  link: https://www.instagram.com/deine_mafa/
+- 
+  provider: soundcloud
+  link: https://soundcloud.com/deinemafa
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/artist/4HVtBgPxPUIJ28sljsMZsg
+- 
+  provider: twitter
+  link: https://twitter.com/Deine_MAFA
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/channel/UCfANAxkwtrWzgKC8WMqr9cQ/
+
+----
+
+Video: PLsn6HIYrf4wZpqO0fjNStVLbGSMoRtIW2
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

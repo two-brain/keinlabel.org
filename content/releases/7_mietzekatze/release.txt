@@ -1,0 +1,60 @@
+Title: Mietzekatze
+
+----
+
+Artists: 
+
+- deinemafa
+
+----
+
+Type: EP
+
+----
+
+Year: 2015
+
+----
+
+Text: Eine Ode an alle Katzen- bzw. Tierliebhaber. Das zweite Werk Leipzigs peinlichster Rapband strotzt vor Überzeichnungen diverser Prototypen.
+
+----
+
+Hosts: 
+
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/watch?v=MjokpHeB9NA
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-mietzekatze.jpg
+
+----
+
+Download: 
+
+- releases/2015-mietzekatze.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false
+
+----
+
+Prevnext: 

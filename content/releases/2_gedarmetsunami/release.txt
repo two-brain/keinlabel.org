@@ -1,0 +1,66 @@
+Title: Gedärmetsunami
+
+----
+
+Artists: 
+
+- etogate
+
+----
+
+Producer: 
+
+----
+
+Type: Album
+
+----
+
+Year: 2018
+
+----
+
+Text: Und es gibt ein Gedärmetsunami...
+
+----
+
+Hosts: 
+
+- 
+  provider: amazon
+  link: 'https://www.amazon.de/Ged%C3%A4rmetsunami-Explicit-Etogate/dp/B07L4RDYCF/ref=sr_1_1?ie=UTF8&qid=1551717600&sr=8-1&keywords=etogate+ged%C3%A4rmetsunami'
+- 
+  provider: apple
+  link: 'https://itunes.apple.com/de/album/ged%C3%A4rmetsunami/id1445570957'
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/album/2vJt3YAozoEGYprgc9zvsZ
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/playlist?list=PLLjNwf3RYaEZtsHrCUDEM-W0AKg2L7MLT
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-gedarmetsunami.jpg
+
+----
+
+Download: 
+
+- releases/2018-gedarmetsunami.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

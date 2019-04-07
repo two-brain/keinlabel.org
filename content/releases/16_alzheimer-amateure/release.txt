@@ -1,0 +1,52 @@
+Title: Alzheimer Amateure
+
+----
+
+Artists: 
+
+- marek-notfall
+- etogate
+
+----
+
+Type: Album
+
+----
+
+Year: 2012
+
+----
+
+Text: "Notfall & Etogate : Alzheimer Amateure" - Der Grundstein der AA Triologie.
+
+----
+
+Hosts: 
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-alzheimer-amateure.jpg
+
+----
+
+Download: 
+
+- releases/2012-alzheimer-amateure.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

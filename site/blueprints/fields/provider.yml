@@ -1,0 +1,20 @@
+label: Externe Services
+type: structure
+modalsize: large
+sortBy: provider asc
+fields:
+  provider:
+    label: Anbieter
+    type: select
+    options:
+      amazon: Amazon
+      facebook: Facebook
+      instagram: Instagram
+      apple: iTunes
+      soundcloud: SoundCloud
+      spotify: Spotify
+      twitter: Twitter
+      youtube: YouTube
+  link:
+    label: URL
+    type: url

@@ -1,0 +1,62 @@
+Title: MondAnbeten Für Anfänger
+
+----
+
+Artists: 
+
+- deinemafa
+
+----
+
+Type: Album
+
+----
+
+Year: 2013
+
+----
+
+Text: Edgar Ohne Gründe (Rapper) und Freund (Produzent) haben sich gefunden. In ihrem Erstlingswerk probieren Sie sich musikalisch und inhaltlich schamlos über alle Grenzen hinweg aus.
+
+----
+
+Hosts: 
+
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/watch?v=NQrDeUFMr6A
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- >
+  releases/cover-mondanbeten-fuer-anbeter.jpg
+
+----
+
+Download: 
+
+- >
+  releases/2013-mondanbeten-fuer-anfaenger.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false
+
+----
+
+Prevnext: 

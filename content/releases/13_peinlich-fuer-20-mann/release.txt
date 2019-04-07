@@ -1,0 +1,70 @@
+Title: Peinlich für 20 Mann
+
+----
+
+Artists: 
+
+- deinemafa
+
+----
+
+Type: EP
+
+----
+
+Year: 2016
+
+----
+
+Text: Endlich mit ihrer eigenen Rolle angefreundet. Selbst die eigenen Freunde wechseln die Straßenseite, denn DeineMafa sind "Peinlich Für 20 Mann".
+
+----
+
+Hosts: 
+
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/watch?v=oa3S9QuRASE
+- 
+  provider: apple
+  link: 'https://itunes.apple.com/de/album/peinlich-f%C3%BCr-20-mann-em-ai-ef-ai-ep/id1227295580'
+- 
+  provider: spotify
+  link: >
+    https://play.spotify.com/album/1JyJ5wjMyn6CDSlnrSjNyY
+- 
+  provider: amazon
+  link: 'https://www.amazon.de/Peinlich-f%C3%BCr-20-Mann-Explicit/dp/B071RB4RK9/'
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-peinlich-fuer-20-mann.jpg
+
+----
+
+Download: 
+
+- releases/2016-peinlich-fuer-20-mann.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false
+
+----
+
+Prevnext: 

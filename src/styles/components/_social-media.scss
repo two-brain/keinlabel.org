@@ -1,0 +1,32 @@
+.social {
+  align-items: center;
+  display: flex;
+
+  @include desktop {
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 100;
+  }
+
+  &-icons {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+
+    @include desktop {
+      flex-direction: column;
+      opacity: 0;
+      transition: opacity 0.3s;
+
+      &.is-active {
+        opacity: 1;
+      }
+    }
+
+    .item {
+      line-height: 1;
+    }
+  }
+}

@@ -1,0 +1,72 @@
+Title: Bremen
+
+----
+
+Artists: 
+
+- deinemafa
+
+----
+
+Type: Single
+
+----
+
+Year: 2017
+
+----
+
+Text: Der Esel steht unten, dann kommt der Hund, anschließend die Katze und oben der Hahn. Die Stadt Bremen hat eine Hymne.
+
+----
+
+Hosts: 
+
+- 
+  provider: amazon
+  link: >
+    https://www.amazon.de/Bremen/dp/B0722248G4/
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/album/5YdX65PLfE1SkmOtktO2rQ
+- 
+  provider: apple
+  link: >
+    https://itunes.apple.com/de/album/bremen-single/id1249091104
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/watch?v=Zncau5ZdTHQ
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-bremen.jpg
+
+----
+
+Download: 
+
+- releases/2017-bremen.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false
+
+----
+
+Prevnext: 

@@ -1,0 +1,56 @@
+Title: MEHR
+
+----
+
+Artists: 
+
+- marek-notfall
+
+----
+
+Type: EP
+
+----
+
+Year: 2017
+
+----
+
+Text: "Marek Notfall & Indize Beatz : MEHR" - Höher Schneller Breiter!!
+
+----
+
+Hosts: 
+
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/album/1PhtQT6mFth9O7H7JGY8Jv
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-mehr.jpg
+
+----
+
+Download: 
+
+- releases/2017-mehr.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

@@ -1,0 +1,12 @@
+headline: Releases
+type: pages
+layout: list
+template: release
+info: "{{ page.type }} - {{ page.year }}"
+empty: Kein Release vorhanden
+image:
+  query: page.cover.toFile
+  ratio: 1/1
+  cover: true
+sortBy: year desc
+limit: 15

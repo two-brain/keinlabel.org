@@ -1,0 +1,52 @@
+Title: Reudig LP - Etogate & Defcon
+
+----
+
+Artists: 
+
+- etogate
+- defcon
+
+----
+
+Type: Album
+
+----
+
+Year: 2015
+
+----
+
+Text: Reudiger Scheiß aus dem Reudnitzer Kreis...
+
+----
+
+Hosts: 
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-reudig-lp.jpg
+
+----
+
+Download: 
+
+- releases/2015-reudig-lp.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

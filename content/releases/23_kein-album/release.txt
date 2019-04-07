@@ -1,0 +1,64 @@
+Title: Kein Album
+
+----
+
+Artists: 
+
+- etogate
+- defcon
+- marek-notfall
+- deinemafa
+
+----
+
+Producer: 
+
+----
+
+Type: Album
+
+----
+
+Year: 2019
+
+----
+
+Text: Defcon, Marek Notfall, Etogate und Deinemafa haben Kein Label und haben deswegen "Kein Album" gemacht.
+
+----
+
+Hosts: 
+
+- 
+  provider: amazon
+  link: 'https://www.amazon.de/Schwarmignoranz-DEINEMAFA/dp/B07D1MYZH5/ref=sr_1_2?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deinemafa&qid=1553251840&s=gateway&sr=8-2'
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/album/7oYl9PmV1462LmNLmQgNdN?si=8-BWA8xMQliCq3bR_zFcrA
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/watch?v=kCo0RT66mJA
+
+----
+
+Shop: https://shop.keinlabel.org/cd/1/defcon-marek-notfall-etogate-und-deinemafa-kein-albm-cd
+
+----
+
+Cover: 
+
+- releases/cover-keinalbum.jpg
+
+----
+
+Download: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

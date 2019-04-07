@@ -1,0 +1,45 @@
+Title: Defcon
+
+----
+
+Teaser: 
+
+- defcon.jpg
+
+----
+
+Thumb: 
+
+- defcon.jpg
+
+----
+
+Text: 
+
+----
+
+Socials: 
+
+- 
+  provider: facebook
+  link: https://www.facebook.com/defcon.dergraf/
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/channel/UCDa1iMj1A6xU0WtfakHpYQQ
+
+----
+
+Video: PLIEwo-VlaJGv7W6_H2tZRGIxf3E1nk75j
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seo: 

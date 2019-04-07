@@ -1,0 +1,6 @@
+type: files
+multiple: false
+layout: cards
+required: true
+image:
+  cover: true

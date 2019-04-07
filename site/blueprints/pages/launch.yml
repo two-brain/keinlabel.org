@@ -1,0 +1,79 @@
+title: Launch
+
+icon: 🚀
+
+status:
+  draft: true
+  listed: true
+
+tabs:
+
+  # Content tab
+  content:
+    label: Inhalt
+    icon: text
+
+    columns:
+      - width: 2/3
+        sections:
+          about:
+            type: fields
+            fields:
+              text:
+                label: Text
+                type: textarea
+                size: small
+              release:
+                label: Release
+                type: pages
+                query: site.index.find("releases").children
+                multiple: false
+                required: true
+              subtitle:
+                label: Aufruf zum Download
+                type: text
+                help: >
+                  <em>Optional</em> - erscheint über den Downloadlinks.
+
+      - width: 1/3
+        sections:
+          media:
+            type: fields
+            fields:
+              teaser:
+                extends: fields/select-image
+                label: Headergrafik
+                query: page.images
+
+  # Files tab
+  files:
+    label: Dateien
+    icon: file
+
+    columns:
+      - width: 2/3
+        sections:
+          images:
+            headline: Bilder
+            type: files
+            layout: cards
+            size: small
+            info: "{{ file.dimensions }} - {{ file.niceSize }}"
+            template: image
+          info:
+            headline: Abmessungen
+            type: info
+            text: |
+              Headergrafiken werden automatisch auf 1280x768 geschnitten,
+              Cover werden automatisch auf 400x400 geschnitten.
+
+      - width: 1/3
+        sections:
+          files:
+            headline: Dateien
+            type: files
+            template: archive
+            info: "{{ file.niceSize }}"
+
+  # Meta tab
+  seo: tabs/seo

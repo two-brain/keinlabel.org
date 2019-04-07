@@ -1,0 +1,52 @@
+Title: Marek Notfall
+
+----
+
+Teaser: 
+
+- iddd.jpg
+
+----
+
+Thumb: 
+
+- img_0580hhrr2.jpg
+
+----
+
+Text: 
+
+----
+
+Socials: 
+
+- 
+  provider: facebook
+  link: https://www.facebook.com/MarekNotfall/
+- 
+  provider: instagram
+  link: https://www.instagram.com/marek_pov/
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/artist/76BsqBnvDwM1Sw1xONoj70
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/channel/UCX42KbLjwDN2udhvDHMtf6g
+
+----
+
+Video: PLKDki74yEXdlePo_tRc1z59UjMc2kg-5l
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seo: 

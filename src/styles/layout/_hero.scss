@@ -1,0 +1,68 @@
+.hero {
+  padding: 0 !important;
+  position: relative;
+}
+
+.hero-body,
+.hero-image,
+.hero-slide,
+.hero-slide .columns {
+  min-height: 24.75rem;
+}
+
+.hero-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-slide {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  width: 100%;
+
+  .container {
+    align-items: center;
+    display: flex;
+    max-width: $desktop;
+    padding: $section-padding-medium;
+  }
+
+  .columns {
+    align-items: center;
+    width: 100%;
+  }
+}
+
+.hero-controls {
+  position: absolute;
+  right: 1rem;
+  top: 40%;
+
+  button {
+    border: 0;
+    border-radius: 50%;
+    display: block;
+    height: 12px;
+    margin: 10px 0;
+    outline: 0;
+    padding: 0;
+    width: 12px;
+
+    &:hover,
+    &.tns-nav-active {
+      background: darken($primary, 20%) !important;
+    }
+  }
+}
+
+.hero-foot {
+  background: transparent url('/assets/images/divider.png') repeat-x center 30px;
+  bottom: 0;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}

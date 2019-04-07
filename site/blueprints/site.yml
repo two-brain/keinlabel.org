@@ -1,0 +1,71 @@
+title: Dashboard
+
+tabs:
+
+  # Dashboard tab
+  dashboard:
+    label: Dashboard
+    icon: dashboard
+
+    columns:
+      - width: 1/2
+        sections:
+          releases:
+            extends: sections/releases
+            parent: site.find("releases")
+      - width: 1/2
+        sections:
+          artists:
+            headline: Künstler
+            type: pages
+            create: artist
+            template:
+              - artist
+          pages:
+            headline: Sonstiges
+            type: pages
+            create:
+              - default
+              - launch
+            template:
+              - home
+              - default
+              - launch
+          links:
+            type: fields
+            fields:
+              shop:
+                label: Shop-URL
+                type: url
+                icon: cart
+                width: 1/2
+              facebook:
+                label: Facebook
+                type: url
+                icon: facebook
+                width: 1/2
+              youtube:
+                label: YouTube
+                type: url
+                icon: video
+                width: 1/2
+              instagram:
+                label: Instagram
+                type: url
+                icon: instagram
+                width: 1/2
+
+  # Matomo tab
+  analytics:
+    label: Statistik
+    icon: settings
+
+    columns:
+      - width: 3/4
+        sections:
+          main:
+            type: matomo-main
+      - width: 1/4
+        sections:
+          sidebar:
+            type: matomo-sidebar

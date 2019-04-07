@@ -1,0 +1,31 @@
+label: Dateien
+icon: file
+
+columns:
+  - width: 2/3
+    sections:
+      images:
+        headline: Bilder
+        type: files
+        layout: cards
+        size: small
+        info: "{{ file.dimensions }} - {{ file.niceSize }}"
+        parent: page.parent
+        template: image
+        image:
+          ratio: 1/1
+          cover: true
+      info:
+        headline: Abmessungen
+        type: info
+        text: |
+          Cover werden automatisch auf 200x200 geschnitten.
+
+  - width: 1/3
+    sections:
+      files:
+        headline: Dateien
+        type: files
+        parent: page.parent
+        template: archive
+        info: "{{ file.niceSize }}"

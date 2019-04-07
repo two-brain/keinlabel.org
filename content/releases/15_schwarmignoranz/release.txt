@@ -1,0 +1,75 @@
+Title: Schwarmignoranz
+
+----
+
+Artists: 
+
+- deinemafa
+
+----
+
+Type: EP
+
+----
+
+Year: 2018
+
+----
+
+Text: Das Aquarium ist fast voll, doch da geht noch was. Der Fokus auf den thematisch doppelten Boden weicht apokalyptischen Gefühlen.
+
+----
+
+Hosts: 
+
+- 
+  provider: amazon
+  link: >
+    https://www.amazon.de/gp/product/B07CSGTNKP/ref=dm_ws_sp_ps_dp
+- 
+  provider: apple
+  link: >
+    https://itunes.apple.com/de/album/schwarmignoranz-ep/1378095669
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/album/7oYl9PmV1462LmNLmQgNdN?si=J1jworFLSmiIf-b6AWG3rA
+- 
+  provider: youtube
+  link: 'https://www.youtube.com/watch?time_continue=1&v=cMjAXrmgh20'
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-schwarmignoranz.jpg
+
+----
+
+Download: 
+
+- releases/2018-schwarmignoranz.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false
+
+----
+
+Count: 0
+
+----
+
+Prevnext: 

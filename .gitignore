@@ -1,0 +1,42 @@
+# Just stuff ..
+/composer.lock
+/yarn.lock
+/workbench
+/vendor
+
+# Kirby
+# -----
+
+/node_modules
+/vendor
+/content/**/*.zip
+
+# System files
+# ------------
+
+Icon
+.DS_Store
+
+# Temporary files
+# ---------------
+
+/assets
+/src/images/favicons
+/site/snippets/generated
+
+/media
+
+# -------------SECURITY-------------
+# NEVER publish these files via Git!
+# -------------SECURITY-------------
+
+# Accounts + Cache Files + Sessions
+# ---------------
+
+/site/accounts
+/site/cache/
+/site/sessions
+
+# License
+# ---------------
+/site/config/.license

@@ -1,0 +1,61 @@
+Title: Brust oder Keule
+
+----
+
+Artists: 
+
+- deinemafa
+
+----
+
+Type: Album
+
+----
+
+Year: 2018 - 20XX
+
+----
+
+Text: Das Album ensteht vor euren Ohren in einer Playlist. Immer wenn ein Track fertig ist, wird er veröffentlicht.
+
+----
+
+Hosts: 
+
+- 
+  provider: soundcloud
+  link: >
+    https://soundcloud.com/deinemafa/sets/brust-oder-keule
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/playlist/20XOPonnpoqCzVrYar4bve
+- 
+  provider: youtube
+  link: 'https://www.youtube.com/watch?v=3xs0nT8KZ4A&list=PLsn6HIYrf4wYL6Vc69rclutgX5_KuslWR'
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-brust-oder-keule.jpg
+
+----
+
+Download: 
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

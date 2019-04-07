@@ -1,0 +1,29 @@
+Title: keinAlbum
+
+----
+
+Text: 
+
+----
+
+Subtitle: 
+
+----
+
+Teaser: 
+
+- header-keinalbum.png
+
+----
+
+Release: 
+
+- releases/kein-album
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 

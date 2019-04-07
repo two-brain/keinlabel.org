@@ -1,0 +1,56 @@
+Title: Mondmensch Diaries
+
+----
+
+Artists: 
+
+- marek-notfall
+
+----
+
+Type: EP
+
+----
+
+Year: 2018
+
+----
+
+Text: 
+
+----
+
+Hosts: 
+
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/album/5AyeJm4gzlqRdgrepN45Eq
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-mondmensch-diaries.jpg
+
+----
+
+Download: 
+
+- releases/2018-mondmensch-diaries.rar
+
+----
+
+Seotitle: Marek Notfall - Mondmensch Diaries
+
+----
+
+Seodescription: -
+
+----
+
+Producer: false

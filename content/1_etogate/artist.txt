@@ -1,0 +1,49 @@
+Title: Etogate
+
+----
+
+Teaser: 
+
+- fertsch.jpg
+
+----
+
+Thumb: 
+
+- fertsch.jpg
+
+----
+
+Text: 
+
+----
+
+Socials: 
+
+- 
+  provider: facebook
+  link: https://www.facebook.com/etogate.unheilz
+- 
+  provider: youtube
+  link: >
+    https://www.youtube.com/channel/UCJudbdCcaYkWAGf4DWC_6xw
+- 
+  provider: spotify
+  link: >
+    https://open.spotify.com/artist/47EfujUnESdrZUjw0HMf4J
+
+----
+
+Video: PLF087F4AF05BDC92A
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Seo: 

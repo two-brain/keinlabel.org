@@ -1,0 +1,12 @@
+label: SEO
+icon: search
+
+fields:
+  seoTitle:
+    label: Überschrift
+    type: text
+  seoDescription:
+    label: Beschreibung
+    type: textarea
+    size: small
+    buttons: false

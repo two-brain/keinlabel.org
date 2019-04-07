@@ -1,0 +1,47 @@
+title: Startseite
+
+icon: 🏠
+
+tabs:
+
+  # Content tab
+  content:
+    label: Inhalt
+    preset: page
+    pages: false
+    files: true
+    icon: text
+    fields:
+      title:
+        label: Title
+        type: text
+      slider:
+        label: Slider
+        type: structure
+        fields:
+          title:
+            label: Title
+            type: text
+            width: 1/2
+          link:
+            label: Link
+            type: link
+            options:
+              - page
+              - url
+            required: true
+            width: 1/2
+          text:
+            label: Text
+            type: textarea
+          product:
+            extends: fields/select-image
+            label: Produkt
+            width: 1/2
+          background:
+            extends: fields/select-image
+            label: Hintergrund
+            width: 1/2
+
+  # Meta tab
+  seo: tabs/seo

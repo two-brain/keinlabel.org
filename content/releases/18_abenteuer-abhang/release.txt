@@ -1,0 +1,52 @@
+Title: Abenteuer Abhang
+
+----
+
+Artists: 
+
+- etogate
+- marek-notfall
+
+----
+
+Type: Album
+
+----
+
+Year: 2015
+
+----
+
+Text: "Notfall & Etogate : Abenteuer Abhang" - Teil 3 der Triologie.
+
+----
+
+Hosts: 
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-abenteuer-abhang.jpg
+
+----
+
+Download: 
+
+- releases/2015-abenteuer-abhang.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

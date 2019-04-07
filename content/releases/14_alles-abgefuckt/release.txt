@@ -1,0 +1,52 @@
+Title: Alles Abgefuckt
+
+----
+
+Artists: 
+
+- etogate
+- marek-notfall
+
+----
+
+Type: Album
+
+----
+
+Year: 2013
+
+----
+
+Text: "Notfall & Etogate : Alles Abgefuckt" - Teil 2 der Triologie.
+
+----
+
+Hosts: 
+
+----
+
+Shop: 
+
+----
+
+Cover: 
+
+- releases/cover-alles-abgefuckt.jpg
+
+----
+
+Download: 
+
+- releases/2013-alles-abgefuckt.zip
+
+----
+
+Seotitle: 
+
+----
+
+Seodescription: 
+
+----
+
+Producer: false

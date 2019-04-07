@@ -1,0 +1,12 @@
+title: Redakteur
+
+description: The editor has some rights.
+
+permissions:
+  site:
+    update: false
+  page:
+    delete: false
+  users: false
+  user:
+    changeRole: false

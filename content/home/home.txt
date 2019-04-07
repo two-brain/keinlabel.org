@@ -1,0 +1,64 @@
+Title: Startseite
+
+----
+
+Slider: 
+
+- 
+  title: keinAlbum
+  link:
+    link: keinalbum
+    type: page
+  text: Out now!
+  product:
+    - keinalbum-frontcover-1500x1500.jpg
+  background:
+    - website_background.png
+- 
+  title: Brust oder Keule
+  link:
+    link: deinemafa
+    type: page
+  text: offenes Playlistalbum von Deinemafa
+  product:
+    - deinemafa-brust-oder-keule.jpg
+  background:
+    - brustoder-keule.jpg
+- 
+  title: Mondmensch Diaries
+  link:
+    link: marek-notfall
+    type: page
+  text: Marek Notfall // Neue EP
+  product:
+    - cover_mondmensch-diaries.jpg
+  background:
+    - header_marek-notfall.jpg
+- 
+  title: Gedärmetsunami
+  link:
+    link: etogate
+    type: page
+  text: Etogate auf Beats von Claymore
+  product:
+    - cover_gedaermetsunami.jpg
+  background:
+    - header_etogate.jpg
+- 
+  title: Frustfoul EP
+  link:
+    link: defcon
+    type: page
+  text: 'Defcon & Dagt Taris'
+  product:
+    - cover_frustfoul.jpg
+  background:
+    - header_defcon.jpg
+
+----
+
+Seotitle: Deinemafa, Etogate, Defcon und Marek Notfall
+
+----
+
+Seodescription: 
