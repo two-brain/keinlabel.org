@@ -34,6 +34,9 @@
   <div class="container is-narrow">
     <div class="content">
       <div class="embed embed-for-wxh-75">
+        <?php if($page == page('defcon')) : ?>
+        <?= youtube($page->video()) ?>
+        <?php else : ?>
         <iframe
           src="https://www.youtube.com/embed/videoseries?list=<?= $page->video() ?>"
           frameborder="0"
@@ -43,6 +46,7 @@
           height="480"
         >
         </iframe>
+        <?php endif ?>
       </div>
     </div>
   </div>
